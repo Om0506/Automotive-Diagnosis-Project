@@ -60,14 +60,6 @@ A Python-based engineering toolkit developed to analyze vehicle telemetry datase
 * OBD-II integration
 * PDF report export
 
-## Sample Dataset
-
-*Public automotive telemetry dataset used for educational purposes.*
-
-## Screenshots
-
-*Add analysis graphs and output screenshots here.*
-
 ## License
 
 Developed for educational and portfolio purposes.
